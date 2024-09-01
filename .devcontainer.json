@@ -27,3 +27,5 @@
 	},
 	"updateContentCommand": "npm install -g @devcontainers/cli"
 }
+
+}
